@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Piraveen12/Leetcode/tree/master/0035-search-insert-position) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Piraveen12/Leetcode/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Piraveen12/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
