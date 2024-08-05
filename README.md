@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Piraveen12/Leetcode/tree/master/0035-search-insert-position) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Piraveen12/Leetcode/tree/master/0290-word-pattern) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Piraveen12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Piraveen12/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Piraveen12/Leetcode/tree/master/0392-is-subsequence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Piraveen12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Piraveen12/Leetcode/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
