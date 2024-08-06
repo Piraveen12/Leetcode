@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Piraveen12/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Piraveen12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Piraveen12/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Piraveen12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Piraveen12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
