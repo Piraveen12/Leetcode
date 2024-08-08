@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Piraveen12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Piraveen12/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Piraveen12/Leetcode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Piraveen12/Leetcode/tree/master/0520-detect-capital) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Piraveen12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
