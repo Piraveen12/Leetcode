@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Piraveen12/Leetcode/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/Piraveen12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Piraveen12/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Piraveen12/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Piraveen12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Piraveen12/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Piraveen12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
