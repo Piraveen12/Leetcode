@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Piraveen12/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Piraveen12/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Piraveen12/Leetcode/tree/master/0520-detect-capital) |
+| [0812-rotate-string](https://github.com/Piraveen12/Leetcode/tree/master/0812-rotate-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Piraveen12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Piraveen12/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
