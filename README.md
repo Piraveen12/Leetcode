@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piraveen12/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piraveen12/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Piraveen12/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Piraveen12/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Piraveen12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piraveen12/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piraveen12/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Piraveen12/Leetcode/tree/master/0229-majority-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piraveen12/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
