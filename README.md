@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Piraveen12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piraveen12/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piraveen12/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Piraveen12/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Piraveen12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/Piraveen12/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Piraveen12/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
 | ------- |
