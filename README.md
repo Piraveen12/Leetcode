@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Piraveen12/Leetcode/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Piraveen12/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Piraveen12/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Piraveen12/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Piraveen12/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Piraveen12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Piraveen12/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Piraveen12/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Piraveen12/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Piraveen12/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Piraveen12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Piraveen12/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Piraveen12/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Piraveen12/Leetcode/tree/master/0948-sort-an-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Piraveen12/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Piraveen12/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Piraveen12/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Piraveen12/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -164,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Piraveen12/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Piraveen12/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Piraveen12/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Piraveen12/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Piraveen12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
