@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Piraveen12/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Piraveen12/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Piraveen12/Leetcode/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Piraveen12/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Piraveen12/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Piraveen12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Piraveen12/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Piraveen12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0835-linked-list-components](https://github.com/Piraveen12/Leetcode/tree/master/0835-linked-list-components) |
 | [0940-fruit-into-baskets](https://github.com/Piraveen12/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Piraveen12/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Piraveen12/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Piraveen12/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Piraveen12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Piraveen12/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Piraveen12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Piraveen12/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Piraveen12/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Piraveen12/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Piraveen12/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Piraveen12/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Piraveen12/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Piraveen12/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Piraveen12/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Piraveen12/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
