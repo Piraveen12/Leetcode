@@ -17,9 +17,9 @@ class Solution {
      for(int i=0;i<height.length;i++){
         int min=Math.min(arr[i],arr1[i]);
         if(height[i]<min){
-            ans=ans+(height[i]-min);
+            ans=ans+(min-height[i]);
         }
      }
-     return -(ans);
+     return ans;
     }
 }
