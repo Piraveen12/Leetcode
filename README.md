@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Piraveen12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Piraveen12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Piraveen12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Piraveen12/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Piraveen12/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Piraveen12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Piraveen12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piraveen12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
