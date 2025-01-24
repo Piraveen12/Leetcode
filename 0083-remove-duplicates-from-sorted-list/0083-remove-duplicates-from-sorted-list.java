@@ -10,19 +10,22 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode temp=new ListNode(-101);
-        ListNode temp1=temp;
-        while(head!=null){
-            if(temp.val != head.val){
-                System.out.println(head.val);
-                temp.next=new ListNode(head.val);
-                temp=temp.next;
-                head=head.next;
-            }
-            else{
-                head=head.next;
-            }
+        if(head == null ||head.next==null){
+            return head;
         }
-        return temp1.next;
+        ListNode ans =head;
+        ListNode next=head.next; 
+        while(next!=null){
+            ListNode prev=ans;
+            if(ans.val!=next.val){
+                ans=ans.next;
+                next=next.next;
+            }
+            if(next!=null && ans.val == next.val ){
+                ans.next=next.next;
+                next=next.next;
+            }
+        } 
+        return head;
     }
 }
