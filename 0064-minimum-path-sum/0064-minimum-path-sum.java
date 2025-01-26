@@ -3,15 +3,13 @@ class Solution {
         if(m==0 && n==0 ){
             return arr1[m][n];
         }
-        if(m < 0 || n< 0 ){
+        if(m < 0 || n<0 ){
             return  Integer.MAX_VALUE;
         }
         if(arr[m][n]!=-1){
             return arr[m][n];
         }
-        int first=minsum(m-1,n,arr,arr1);
-        int second=minsum(m,n-1,arr,arr1);
-         return arr[m][n]=Math.min(first,second)+arr1[m][n];
+        else return arr[m][n]=Math.min(minsum(m-1, n,arr,arr1),minsum(m,n-1,arr,arr1))+arr1[m][n];
     }
     public int minPathSum(int[][] grid) {
        int len= grid.length;
