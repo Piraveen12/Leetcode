@@ -14,29 +14,17 @@
  * }
  */
 class Solution {
-    public int levelorder(TreeNode root, int level){
-        if(root== null){
-            return 0;
-        }
-        Queue <TreeNode > tree = new LinkedList<>();
-        tree.add(root);
-        while(!tree.isEmpty()){
-            int len = tree.size();
-            for(int index= 0 ;index < len ;index ++){
-                TreeNode temp1= tree.poll();
-                if(temp1.left!=null)
-                    tree.add(temp1.left);
-                if(temp1.right!=null)
-                    tree.add(temp1.right);
-            }
-            level++;
-            
-        }
-        return level;
+    public int preorder(TreeNode root, int level){
+        if(root == null){
+            return level;
+        } 
+        int left=preorder(root.left,level+1);
+        int right=preorder(root.right,level+1);
+        return Math.max(left,right);
     }
     public int maxDepth(TreeNode root) {
         int level=0;
-        int data = levelorder(root, level );
+        int data = preorder(root, level );
         return data;
     }
 }
