@@ -22,8 +22,11 @@ class Solution {
         tree.add(root);
         while(!tree.isEmpty()){
             int len = tree.size();
-            for(int i =0; i < len-1; i++){
+            for(int i =0; i < len; i++){
                 TreeNode a = tree.poll();
+                if(i== len-1){
+                    ans.add(a.val);
+                }
                 if(a.left!=null){
                     tree.add(a.left);
                 }
@@ -31,14 +34,7 @@ class Solution {
                     tree.add(a.right);
                 }
             }
-            TreeNode a1= tree.poll();
-            ans.add(a1.val);
-            if(a1.left!=null){
-                tree.add(a1.left);
-            }
-            if(a1.right!=null){
-                tree.add(a1.right);
-            }
+             
         }
     }
     public List<Integer> rightSideView(TreeNode root) {
