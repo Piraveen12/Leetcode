@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Piraveen12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Piraveen12/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Piraveen12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
