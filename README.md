@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Piraveen12/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Piraveen12/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piraveen12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Piraveen12/Leetcode/tree/master/0810-valid-tic-tac-toe-state) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -442,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
