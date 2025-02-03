@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/Piraveen12/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0801-is-graph-bipartite](https://github.com/Piraveen12/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -455,12 +457,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/Piraveen12/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Piraveen12/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Piraveen12/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piraveen12/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0801-is-graph-bipartite](https://github.com/Piraveen12/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
