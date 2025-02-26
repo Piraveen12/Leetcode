@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Piraveen12/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Piraveen12/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Piraveen12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Piraveen12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Piraveen12/Leetcode/tree/master/0493-reverse-pairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Piraveen12/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Piraveen12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Piraveen12/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Piraveen12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Piraveen12/Leetcode/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piraveen12/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Piraveen12/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Piraveen12/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Piraveen12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Piraveen12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Piraveen12/Leetcode/tree/master/0493-reverse-pairs) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Piraveen12/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Piraveen12/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Piraveen12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
