@@ -41,8 +41,8 @@ class Solution {
         if(root == null){
             return 0;
         }
-        int level=0;
+        int level=1;
         int data = preorder(root, level);
-        return data+1;
+        return data;
     }
 }
