@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Piraveen12/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Piraveen12/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Piraveen12/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Piraveen12/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Piraveen12/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Piraveen12/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Piraveen12/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Piraveen12/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Piraveen12/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Piraveen12/Leetcode/tree/master/1036-rotting-oranges) |
