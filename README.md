@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Piraveen12/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Piraveen12/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Piraveen12/Leetcode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Piraveen12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Piraveen12/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Piraveen12/Leetcode/tree/master/0493-reverse-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Piraveen12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Piraveen12/Leetcode/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
 | [0810-valid-tic-tac-toe-state](https://github.com/Piraveen12/Leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1036-rotting-oranges](https://github.com/Piraveen12/Leetcode/tree/master/1036-rotting-oranges) |
@@ -543,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Piraveen12/Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Piraveen12/Leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
