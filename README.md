@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Piraveen12/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Piraveen12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Piraveen12/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Piraveen12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Piraveen12/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Piraveen12/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Piraveen12/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Piraveen12/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Piraveen12/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/Piraveen12/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Piraveen12/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Piraveen12/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Piraveen12/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Piraveen12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Piraveen12/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Piraveen12/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0835-linked-list-components](https://github.com/Piraveen12/Leetcode/tree/master/0835-linked-list-components) |
 | [1765-merge-in-between-linked-lists](https://github.com/Piraveen12/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Piraveen12/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
