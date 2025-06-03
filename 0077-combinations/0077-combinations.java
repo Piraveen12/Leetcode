@@ -1,5 +1,8 @@
 class Solution {
     public void com(List<List<Integer>> ans,List<Integer> result, int st ,int k ,int n){
+        if(result.size() >k){
+            return ;
+        }
         if(result.size()== k){
             ans.add(new ArrayList(result));
         }
