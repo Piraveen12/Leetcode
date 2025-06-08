@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Piraveen12/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Piraveen12/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Piraveen12/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Piraveen12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Piraveen12/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Piraveen12/Leetcode/tree/master/0090-subsets-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Piraveen12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Piraveen12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Piraveen12/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Piraveen12/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Piraveen12/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Piraveen12/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Piraveen12/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Piraveen12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Piraveen12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Piraveen12/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Piraveen12/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Piraveen12/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Piraveen12/Leetcode/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/Piraveen12/Leetcode/tree/master/0695-max-area-of-island) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Piraveen12/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Piraveen12/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Piraveen12/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Piraveen12/Leetcode/tree/master/0100-same-tree) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Piraveen12/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Piraveen12/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Piraveen12/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Piraveen12/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Piraveen12/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Piraveen12/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Piraveen12/Leetcode/tree/master/0257-binary-tree-paths) |
