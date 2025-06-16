@@ -1,32 +1,26 @@
 class Solution {
-    public boolean  jump(int st, Boolean [] arr , int [] nums ,int end){
-        if(st >= end){
+    public boolean check(int[] nums, int count, int len,Boolean [] result) {
+        if (count >= len - 1) {
             return true;
         }
-        if(nums[st]==0){
+        if (nums[count] == 0) {
             return false;
         }
-        if(arr[st]!=null){
-            return  arr[st];
+        if(result[count] != null){
+            return result[count];
         }
-      for (int  i = 1 ; i <= nums[st]; i++) {
-            if (jump(st + i,arr, nums, end)) {
-                arr[st]=true;
-                return true;  
+        for (int i = 1; i <= nums[count]; i++) {
+            if (check(nums, count + i, len, result)) {
+                result[count] = true;
+                return true;
             }
         }
-        arr[st]=false;
+        result[count] = false;
         return false;
-        
     }
+
     public boolean canJump(int[] nums) {
-        if(nums.length<=1){
-            return true;
-        }
-        int st=0;
-        int end=nums.length-1;
-        Boolean [] arr = new Boolean[end+2];
-        //Arrays.fill(arr,false);
-       return jump(st,arr,nums,end);
+        Boolean [] result = new Boolean[nums.length];
+        return check(nums, 0, nums.length,result);
     }
 }
