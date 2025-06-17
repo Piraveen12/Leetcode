@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Piraveen12/Leetcode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/Piraveen12/Leetcode/tree/master/0837-most-common-word) |
 | [1250-longest-common-subsequence](https://github.com/Piraveen12/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1274-number-of-days-between-two-dates](https://github.com/Piraveen12/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Piraveen12/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Piraveen12/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Piraveen12/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piraveen12/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Piraveen12/Leetcode/tree/master/1013-fibonacci-number) |
+| [1274-number-of-days-between-two-dates](https://github.com/Piraveen12/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Piraveen12/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Piraveen12/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Heap (Priority Queue)
